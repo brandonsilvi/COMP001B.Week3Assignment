@@ -44,6 +44,7 @@ nav {
 	font-size: 80%;
 }
 
+/* Layout was easier to achieve by centralizing the alignment, spacing, and distribution of elements in the main container */
 #main-container {
 	display: flex;
 	flex-direction: row;
